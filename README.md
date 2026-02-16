@@ -3,8 +3,6 @@
 
 **Course:** OPIM 5671 – Data Mining and Time Series Forecasting  
 **University:** University of Connecticut  
-**Team 4:** Hetarth Maulik Patel, Pawan Kalyan Sogana, Venkata Kushaal Varma Manthena, Vikram Krishnareddy  
-
 ---
 
 ## 🔍 Project Overview
