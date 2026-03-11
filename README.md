@@ -137,6 +137,6 @@ Please run all cells to reproduce results.
 
 Vikram Krishnareddy  
 MS Business Analytics & Project Management  
-University of Connecticut
+University of Connecticut School of Business 
 
 
